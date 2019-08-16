@@ -1,0 +1,9 @@
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.deps.json
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.csprojAssemblyReference.cache
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.csproj.CoreCompileInputs.cache
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.AssemblyInfoInputs.cache
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.AssemblyInfo.cs
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Proyecto SW 2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb

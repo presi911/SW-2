@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>UC_Parking_Domain_Implementation</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UC-Parking-Domain-Contracts\UC-Parking-Domain-Contracts.csproj" />
+    <ProjectReference Include="..\UC-Parking-Persistence-Contracts\UC-Parking-Persistence-Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.deps.json
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.dll
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.pdb
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.csproj.CoreCompileInputs.cache
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.AssemblyInfoInputs.cache
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.AssemblyInfo.cs
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.dll
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.pdb
+D:\Proyecto SW 2\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.csprojAssemblyReference.cache
