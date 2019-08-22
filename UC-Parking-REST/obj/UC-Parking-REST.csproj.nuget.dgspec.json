@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyecto SW 2\\UC-Parking-REST\\UC-Parking-REST.csproj": {}
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj": {}
   },
   "projects": {
-    "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj",
         "projectName": "UC-Parking-Domain-Contracts",
-        "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj",
-        "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,20 +56,20 @@
         }
       }
     },
-    "D:\\Proyecto SW 2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto SW 2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj",
         "projectName": "UC-Parking-Domain-Implementation",
-        "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj",
-        "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Implementation\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,11 +82,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
-                "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
               },
-              "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
-                "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj"
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj"
               }
             }
           }
@@ -115,20 +115,20 @@
         }
       }
     },
-    "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
         "projectName": "UC-Parking-Persistence-Contracts",
-        "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
-        "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -167,20 +167,20 @@
         }
       }
     },
-    "D:\\Proyecto SW 2\\UC-Parking-REST\\UC-Parking-REST.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto SW 2\\UC-Parking-REST\\UC-Parking-REST.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj",
         "projectName": "UC-Parking-REST",
-        "projectPath": "D:\\Proyecto SW 2\\UC-Parking-REST\\UC-Parking-REST.csproj",
-        "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto SW 2\\UC-Parking-REST\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,11 +193,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
-                "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
               },
-              "D:\\Proyecto SW 2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
-                "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj"
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj"
               }
             }
           }
@@ -227,6 +227,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             }
           },
           "imports": [

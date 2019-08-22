@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DAVID\\.nuget\\packages\\": {},
+    "C:\\Users\\sebastian\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+      "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
       "projectName": "UC-Parking-Persistence-Contracts",
-      "projectPath": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
-      "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyecto SW 2\\UC-Parking-Persistence-Contracts\\obj\\",
+      "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+      "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

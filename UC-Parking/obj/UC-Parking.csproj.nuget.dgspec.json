@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyecto SW 2\\UC-Parking\\UC-Parking.csproj": {}
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking\\UC-Parking.csproj": {}
   },
   "projects": {
-    "D:\\Proyecto SW 2\\UC-Parking\\UC-Parking.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking\\UC-Parking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto SW 2\\UC-Parking\\UC-Parking.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking\\UC-Parking.csproj",
         "projectName": "UC-Parking",
-        "projectPath": "D:\\Proyecto SW 2\\UC-Parking\\UC-Parking.csproj",
-        "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto SW 2\\UC-Parking\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking\\UC-Parking.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
