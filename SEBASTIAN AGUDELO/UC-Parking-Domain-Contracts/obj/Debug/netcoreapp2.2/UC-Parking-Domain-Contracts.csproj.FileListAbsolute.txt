@@ -19,7 +19,6 @@ D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\U
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.deps.json
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.dll
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.pdb
-D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.csprojAssemblyReference.cache
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.csproj.CoreCompileInputs.cache
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.AssemblyInfoInputs.cache
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Domain-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.AssemblyInfo.cs

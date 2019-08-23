@@ -17,4 +17,8 @@
     <ProjectReference Include="..\UC-Parking-Domain-Implementation\UC-Parking-Domain-Implementation.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+  
 </Project>
