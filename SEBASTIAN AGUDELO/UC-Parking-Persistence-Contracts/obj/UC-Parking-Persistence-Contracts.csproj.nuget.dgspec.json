@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {}
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\SEBASTIAN AGUDELO\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\SEBASTIAN AGUDELO\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\SEBASTIAN AGUDELO\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
         "projectName": "UC-Parking-Persistence-Contracts",
-        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\SEBASTIAN AGUDELO\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
         "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\obj\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\SEBASTIAN AGUDELO\\UC-Parking-Persistence-Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

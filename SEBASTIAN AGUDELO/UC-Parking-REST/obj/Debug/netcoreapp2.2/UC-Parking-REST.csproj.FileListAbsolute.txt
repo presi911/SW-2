@@ -40,3 +40,24 @@ D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\U
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.csproj.CopyComplete
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.dll
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-REST.deps.json
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-REST.runtimeconfig.json
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-REST.runtimeconfig.dev.json
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-REST.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-REST.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.csprojAssemblyReference.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.csproj.CoreCompileInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.RazorAssemblyInfo.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.RazorAssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.AssemblyInfoInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.AssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.RazorTargetAssemblyInfo.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.csproj.CopyComplete
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST.pdb

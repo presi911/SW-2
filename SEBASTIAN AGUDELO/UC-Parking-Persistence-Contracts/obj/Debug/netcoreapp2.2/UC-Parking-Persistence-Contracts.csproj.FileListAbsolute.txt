@@ -16,3 +16,12 @@ D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\U
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.AssemblyInfo.cs
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
 D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.deps.json
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.csprojAssemblyReference.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.csproj.CoreCompileInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.AssemblyInfoInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.AssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\SEBASTIAN AGUDELO\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
