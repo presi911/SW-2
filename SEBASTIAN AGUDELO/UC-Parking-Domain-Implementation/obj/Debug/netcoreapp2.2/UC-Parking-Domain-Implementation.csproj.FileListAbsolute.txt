@@ -1,0 +1,28 @@
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.deps.json
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.dll
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.pdb
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.csproj.CoreCompileInputs.cache
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.AssemblyInfoInputs.cache
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.AssemblyInfo.cs
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.dll
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.pdb
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.dll
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.pdb
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.csprojAssemblyReference.cache
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.csproj.CopyComplete
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Proyecto SW 2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.deps.json
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Domain-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\UC-Parking-Persistence-Contracts.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.csprojAssemblyReference.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.csproj.CoreCompileInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.AssemblyInfoInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.AssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.csproj.CopyComplete
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\implementacion final\SW-2\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\UC-Parking-Domain-Implementation.pdb

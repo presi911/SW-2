@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj",
+        "projectName": "UC-Parking-Domain-Contracts",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj",
+        "projectName": "UC-Parking-Domain-Implementation",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
+              },
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+        "projectName": "UC-Parking-Persistence-Contracts",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\UC-Parking-Persistence-Contracts.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Persistence-Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj",
+        "projectName": "UC-Parking-REST",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\UC-Parking-REST.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-REST\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
+              },
+              "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
+                "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\implementacion final\\SW-2\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
