@@ -7,6 +7,6 @@ namespace UC_Parking_Persistence_Contracts.Contracts
 {
     public interface IEspacioParqueoRepository
     {
-        Boolean GuardarEspacioParqueo(EspacioParqueoDb v);
+        cc
     }
 }

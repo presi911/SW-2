@@ -15,6 +15,14 @@ namespace UC_Parking_Domain_Contracts.DomainEntities
             set { id = value; }
         }
 
+
+        private String tamanoM2;
+
+        public String TamanoM2
+        {
+            get { return tamanoM2; }
+            set { tamanoM2 = value; }
+        }
         private String ubicacion;
 
         public String Ubicacion
@@ -23,22 +31,31 @@ namespace UC_Parking_Domain_Contracts.DomainEntities
             set { ubicacion = value; }
         }
 
+        private Boolean tipoEspecial;
+
+        public Boolean TipoEspecial
+        {
+            get { return tipoEspecial; }
+            set { tipoEspecial = value; }
+        }
+
+
+
         private String descripcion;
 
-        public String Descripcion 
+        public String Descripcion
         {
             get { return descripcion; }
             set { descripcion = value; }
         }
 
-        private String estadisticas;
+        private String estadisticasOcupacion;
 
-        public String Estadisticas
+        public String EstadisticasOcupacion
         {
-            get { return estadisticas; }
-            set { estadisticas = value; }
+            get { return estadisticasOcupacion; }
+            set { estadisticasOcupacion = value; }
         }
-
 
     }
 

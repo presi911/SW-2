@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "UC-Parking-Domain-Implementation/1.0.0": {
+        "dependencies": {
+          "UC-Parking-Domain-Contracts": "1.0.0",
+          "UC-Parking-Persistence-Contracts": "1.0.0"
+        },
+        "runtime": {
+          "UC-Parking-Domain-Implementation.dll": {}
+        }
+      },
+      "UC-Parking-Domain-Contracts/1.0.0": {
+        "runtime": {
+          "UC-Parking-Domain-Contracts.dll": {}
+        }
+      },
+      "UC-Parking-Persistence-Contracts/1.0.0": {
+        "runtime": {
+          "UC-Parking-Persistence-Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC-Parking-Domain-Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UC-Parking-Domain-Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UC-Parking-Persistence-Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

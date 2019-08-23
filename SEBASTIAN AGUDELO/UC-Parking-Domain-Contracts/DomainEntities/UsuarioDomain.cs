@@ -8,6 +8,7 @@ namespace UC_Parking_Domain_Contracts.DomainEntities
 
     {
         private int id;
+
         public int Id
         {
             get { return id; }
@@ -18,32 +19,33 @@ namespace UC_Parking_Domain_Contracts.DomainEntities
 
         public String Tipo
         {
-            get { return Tipo; }
-            set { Tipo = value; }
+            get { return tipo; }
+            set { tipo = value; }
         }
 
         private String nombre;
 
         public String Nombre
         {
-            get { return Nombre; }
-            set { Nombre = value; }
+            get { return nombre; }
+            set { nombre = value; }
         }
 
         private String correo;
 
         public String Correo
         {
-            get { return Correo; }
-            set { Correo = value; }
+            get { return correo; }
+            set { correo = value; }
         }
         private String cedula;
 
         public String Cedula
         {
-            get { return Cedula; }
-            set { Cedula = value; }
+            get { return cedula; }
+            set { cedula = value; }
         }
+
     }
 }
 

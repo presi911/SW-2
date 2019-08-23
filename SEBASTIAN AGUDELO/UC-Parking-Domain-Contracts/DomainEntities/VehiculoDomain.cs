@@ -38,6 +38,38 @@ namespace UC_Parking_Domain_Contracts.DomainEntities
             set { telefono = value; }
         }
 
+        private String marca;
+        public String Marca
+        {
+            get { return marca; }
+            set { marca = value; }
+        }
+
+        private String color;
+
+        public String Color
+        {
+            get { return color; }
+            set { color = value; }
+        }
+        private String modelo;
+
+        public String Modelo
+        {
+            get { return modelo; }
+            set { modelo = value; }
+        }
+
+        private String motor;
+
+        public String Motor
+        {
+            get { return motor; }
+            set { motor = value; }
+        }
+
+
+
 
     }
 }
